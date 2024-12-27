@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728380092757",
+    "project_id": "workwaala",
+    "storage_bucket": "workwaala.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728380092757:android:89f79e8be7ead71374ffdc",
+        "android_client_info": {
+          "package_name": "com.example.workwala_workers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVVU4LasKaqum8BZ-AXXzWJ9EEXz3ovE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
